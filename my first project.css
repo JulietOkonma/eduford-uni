@@ -6,7 +6,7 @@
 } 
   .header{
       background: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-       url(collage\ building.jpeg) ;
+       url(images/pexels-pixabay-207692.jpg) ;
        background-position: center;
        background-size: cover;
        position: relative;
@@ -63,9 +63,11 @@ border: 1px solid #fff;
     font-size: 62px;
 }
 .textbook p{
-    font-size: 14px;
+    font-size: 20px;
     margin: 10px  0 14px;
     color: #fff;
+    font-weight: bolder;
+    
 }
 .textbook a{
     text-decoration: none;
@@ -275,7 +277,7 @@ background: #fff3f3;
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0,0,0.7) , rgba(0,0,0,0.7)),url(eduford\ banner.jpg);
+    background-image: linear-gradient(rgba(0,0,0.7) , rgba(0,0,0,0.7)),url(images/pexels-pixabay-207692.jpg);
     background-position: center;
     background-size: cover;   
     border-radius: 10px;
